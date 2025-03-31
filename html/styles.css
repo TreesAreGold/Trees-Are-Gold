@@ -1,8 +1,3 @@
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
 
 
 body {
@@ -91,7 +86,7 @@ body {
     background-image:  linear-gradient(to right, rgba(26, 43, 32, 0.7) 0 100%), url(Madre.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 89.5vh;
+    height: 100vh;
   }
   
   /* navigation bar */
@@ -263,7 +258,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 60px 50px;
-    height: 81.5vh;
+    height: 100vh;
 }
 
 /* Profile Image */
@@ -364,7 +359,7 @@ body {
       background-image:  linear-gradient(to right, rgba(26, 43, 32, 0.7) 0 100%), url(Mayon.jpg);
       background-size: cover;
       background-repeat: no-repeat;
-      height: 81.5vh;
+      height: 100vh;
       color: #fff;
       text-align: center;
     }
